@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, I'm Phuc</h1>
-<h3 align="center">I'm pursuing a degree in Electronic Engineering at the University of Science, Vietnam National University Ho Chi Minh City, specializing in Digital IC Design. My background in Electronics and Telecommunications provides a strong foundation for my passion for building and exploring new technologies.</h3>
+<h3 align="center">I'm pursuing a degree in Electronic Engineering at the University of Science, Vietnam National University Ho Chi Minh City, specializing in Analog and Digital IC Design. My background in Electronics and Telecommunications provides a strong foundation for my passion for building and exploring new technologies.</h3>
 
 - 🌱 I’m currently learning **Digital IC Design , Machine Learning , Telecommunication**
 
